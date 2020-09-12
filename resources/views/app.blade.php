@@ -15,7 +15,7 @@
   <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.8.11/css/mdb.min.css" rel="stylesheet">
 </head>
 
-<body>
+<body class="bg">
   <div id="app">
     @yield('content')
   </div> 
@@ -29,6 +29,27 @@
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
   <!-- MDB core JavaScript -->
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.8.11/js/mdb.min.js"></script>
+  <style>
+    body, html {
+      height: 100%;
+    }
+    .bg {
+      /* The image used */
+      background-image: url('https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/25/85/1728525/example');
+
+      /* Half height */
+      height: 100%;
+
+      /* Center and scale the image nicely */
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      
+    }
+    #app {
+      margin-bottom: 20px;
+    }
+  </style>
 </body>
 
 </html>
