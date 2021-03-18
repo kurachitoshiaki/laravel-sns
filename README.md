@@ -14,7 +14,7 @@
 
 ## ・My_Page
 
-![My_Page](https://i.gyazo.com/722d40143fd9a79e931eafc8fa95010a.gif/raw)
+![My_Page](https://i.gyazo.com/722d40143fd9a79e931eafc8fa95010a.gif)
 
 ## ・Hash_Tag
 
