@@ -12,14 +12,9 @@
 
 ![article](https://gyazo.com/ce78ff2b6f5556d73cc0555dcee75f88/raw)
 
-## ・article
-
-![article](https://gyazo.com/722d40143fd9a79e931eafc8fa95010a/raw)
-
-
 ## ・My_Page
 
-![My_Page](https://gyazo.com/722d40143fd9a79e931eafc8fa95010a/raw)
+![My_Page](https://gyazo.com/e4ec757ba4614381a2f6acf45484ad4f/raw)
 
 ## ・Hash_Tag
 
