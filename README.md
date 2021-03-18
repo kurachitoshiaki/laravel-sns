@@ -14,7 +14,7 @@
 
 ## ・My_Page
 
-![My_Page](https://gyazo.com/ce78ff2b6f5556d73cc0555dcee75f88/raw)
+![My_Page](https://gyazo.com/c7f47cbc9185c7972d30a1cecc709124/raw)
 
 ## ・Hash_Tag
 
